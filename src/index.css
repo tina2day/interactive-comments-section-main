@@ -52,6 +52,7 @@
 
 body {
   margin: 0;
+  background: hsl(228, 33%, 97%);
 }
 
 #root {
