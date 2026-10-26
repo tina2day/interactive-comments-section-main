@@ -47,6 +47,6 @@ npm run build
 
 Это демонстрационный проект с одним общим пользователем, без регистрации и отдельного аккаунта для каждого посетителя. Изменения в API видны всем, кто откроет приложение.
 
-## Исходное задание
+## Готовый проект на GitHub Pages
 
-[Interactive comments section — Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9).
+[Interactive comments section](https://tina2day.github.io/interactive-comments-section-main/).
